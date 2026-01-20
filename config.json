@@ -1,0 +1,13 @@
+{
+  "hotkey": "ctrl+shift+s",
+  "shortcuts": [
+    {
+      "title": "Win+E",
+      "description": "Open File Explorer"
+    },
+    {
+      "title": "Win+L",
+      "description": "Lock the PC"
+    }
+  ]
+}
