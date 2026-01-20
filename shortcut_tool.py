@@ -1,6 +1,5 @@
 import json
 import os
-import threading
 import tkinter as tk
 from dataclasses import dataclass, field
 from tkinter import messagebox, simpledialog, ttk
